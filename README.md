@@ -1,1 +1,0 @@
-# Terraform Playground and created by Terraform.
